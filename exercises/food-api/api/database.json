@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "category": "Pasta",
+      "ethnicity": "Italian"
+    },
+    {
+      "id": 3,
+      "name": "Hot Chicken",
+      "category": "Meat",
+      "ethnicity": "American"
+    },
+    {
+      "name": "Burrito",
+      "category": "Mexican-American",
+      "ethnicity": "Mexican",
+      "id": 4
+    },
+    {
+      "name": "Salad",
+      "category": "Mexican-American",
+      "ethnicity": "Mexican",
+      "id": 5
+    }
+  ]
+}
