@@ -4,25 +4,29 @@
       "id": 1,
       "name": "Lasagna",
       "category": "Pasta",
-      "ethnicity": "Italian"
+      "ethnicity": "Italian",
+      "barcode": "0011110111432"
     },
     {
       "id": 3,
       "name": "Hot Chicken",
       "category": "Meat",
-      "ethnicity": "American"
+      "ethnicity": "American",
+      "barcode": "3266980780173"
     },
     {
-      "name": "Burrito",
+      "name": "Beef Burrito",
       "category": "Mexican-American",
       "ethnicity": "Mexican",
-      "id": 4
+      "id": 4,
+      "barcode": "00245951"
     },
     {
-      "name": "Salad",
+      "name": "Taco Salad",
       "category": "Mexican-American",
       "ethnicity": "Mexican",
-      "id": 5
+      "id": 5,
+      "barcode": "0030223048404"
     }
   ]
 }
